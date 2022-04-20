@@ -8,7 +8,7 @@ import { ACTIVIDADES } from '../comun/actividades';
 const styles = StyleSheet.create({
     titulo: {
         color: 'chocolate',
-        fontSize: 30
+        fontSize: 31
     }
 });
 
